@@ -21,6 +21,10 @@ h2{
     padding: 10px
 }
 
+img, h3, p{
+    margin-left: 15px;
+}
+
 #brushes{
     background-color:mediumspringgreen;
 }
